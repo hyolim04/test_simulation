@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test_simulation/static/css/main.18e11287.css",
-    "main.js": "/test_simulation/static/js/main.5f41ec1b.js",
-    "static/js/483.81b16335.chunk.js": "/test_simulation/static/js/483.81b16335.chunk.js",
-    "static/js/787.939d5ca9.chunk.js": "/test_simulation/static/js/787.939d5ca9.chunk.js",
-    "service-worker.js": "/test_simulation/service-worker.js",
-    "index.html": "/test_simulation/index.html",
-    "main.18e11287.css.map": "/test_simulation/static/css/main.18e11287.css.map",
-    "main.5f41ec1b.js.map": "/test_simulation/static/js/main.5f41ec1b.js.map",
-    "483.81b16335.chunk.js.map": "/test_simulation/static/js/483.81b16335.chunk.js.map",
-    "787.939d5ca9.chunk.js.map": "/test_simulation/static/js/787.939d5ca9.chunk.js.map"
+    "main.css": "/hyolim04/school.git/static/css/main.18e11287.css",
+    "main.js": "/hyolim04/school.git/static/js/main.80ae0f24.js",
+    "static/js/483.bfd26a94.chunk.js": "/hyolim04/school.git/static/js/483.bfd26a94.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/hyolim04/school.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/hyolim04/school.git/service-worker.js",
+    "index.html": "/hyolim04/school.git/index.html",
+    "main.18e11287.css.map": "/hyolim04/school.git/static/css/main.18e11287.css.map",
+    "main.80ae0f24.js.map": "/hyolim04/school.git/static/js/main.80ae0f24.js.map",
+    "483.bfd26a94.chunk.js.map": "/hyolim04/school.git/static/js/483.bfd26a94.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/hyolim04/school.git/static/js/787.939d5ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e11287.css",
-    "static/js/main.5f41ec1b.js"
+    "static/js/main.80ae0f24.js"
   ]
 }
